@@ -108,5 +108,5 @@ By giving an overview of the main idea, problem, or solution and why it is impor
 ## 12. What data is available regarding the market size and growth potential for your software?
 USD 584.03 billion in 2024
 ## 13. How can understanding market trends inform your software’s positioning and development?
-It helps to position yourself and capitalize on emerging trends and customer demands
-It serves as a compass for businesses, directing them towards profitable growth opportunities 
+- It helps to position yourself and capitalize on emerging trends and customer demands
+- It serves as a compass for businesses, directing them towards profitable growth opportunities 
